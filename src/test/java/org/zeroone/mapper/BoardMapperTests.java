@@ -19,6 +19,7 @@ import lombok.extern.log4j.Log4j;
 public class BoardMapperTests {
 	@Setter(onMethod_ = @Autowired)
 	private BoardMapper mapper;
+	
 //	
 //	@Test
 //	public void testGetList() {
